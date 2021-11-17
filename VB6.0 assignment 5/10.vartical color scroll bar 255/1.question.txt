@@ -1,0 +1,1 @@
+write a visual Basic program to creat 3 horizantal scrollbar,one for Red,one for Green,one for Blue with 3 rectangal shapes and fill up with color Red,Green & Blue and creat 3 labels for displaying Red value,Green value and blue value.And finally depending on scrollbar valurs form background color change.

@@ -1,0 +1,5 @@
+Line 55: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 61: The property name _ExtentX in ProgressBar1 is invalid.
+Line 62: The property name _ExtentY in ProgressBar1 is invalid.
+Line 63: The property name _Version in ProgressBar1 is invalid.
+Line 65: The property name Max in ProgressBar1 is invalid.

@@ -1,0 +1,2 @@
+write a program to design a text and 2 commond button one for SHOW and one for CLEAR & 1 label it wil use hedding.After click on SHOW commond button it will display gradation of marks in a message box.this range of the marks :-90-100 starmarks,70-89 A,
+50-69 B,30-49 C,below 30 Fail & otherwise invalid.

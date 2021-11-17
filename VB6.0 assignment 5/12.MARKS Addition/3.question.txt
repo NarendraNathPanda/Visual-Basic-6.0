@@ -1,0 +1,1 @@
+write a program to creat one text field one label & one commond button providing last value in text field.It will generate one display a mussage of adding all odd numbers from 1 to provide text values.

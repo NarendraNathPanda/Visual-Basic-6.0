@@ -1,0 +1,2 @@
+extracted the "Splash Window.rar" file in D: drive
+then open Splash Window folder &run the project1

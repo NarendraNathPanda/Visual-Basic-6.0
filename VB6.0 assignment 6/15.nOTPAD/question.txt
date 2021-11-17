@@ -1,0 +1,7 @@
+1.write a visual basic program to create notepad menu like,file menu is File,Edit,Format,View,help.And all file menu indivisualy sub menu as like- 
+File sub menu is:-New,Open,Save,Save As,Page Setup,print,Exit with one text field.
+->Edit sub menu is:-Undo,cut,copy,pest,Select All options.
+->Format sub menu is:-Word Wrap,Font.
+->View sub menu is:-Zoom,Stauts Bar.
+  zoom sub menu is:-Zoom In,Zoom Out,restore Default Zoom.
+->Help sub menu is:-View Help,Send Feedback,About Notepad.
